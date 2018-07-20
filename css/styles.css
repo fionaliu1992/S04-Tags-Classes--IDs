@@ -1,0 +1,47 @@
+body {
+    background-color: gray;
+}
+p {
+    background-color: yellow;
+    padding: 20px;
+    font-size: 16px;
+    line-height: 32px;
+    margin: 20px;
+    border: solid 10px purple;
+}
+p#firstPar {
+    background-color: orange;
+    font-size: 20px;
+}
+p.vanilla {
+    font-size: 10px;
+    border: solid 5px red;
+}
+div#container {
+    background-color: white;
+    width: 800px;
+    margin: auto;
+    padding: 25px;
+}
+
+header {
+    padding: 20px;
+    background-color: teal;
+}
+
+nav#footerNav {
+    background-color: white;
+}
+
+main {
+    padding: 20px;
+    background-color: #eee;
+}
+footer {
+    padding: 20px;
+    background-color: teal;
+}
+nav#mainmenu {
+    padding: 20px;
+    background-color: #005a5a;
+}
